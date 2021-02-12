@@ -105,8 +105,8 @@ def get_text(row):
 
 if __name__=="__main__":
 	url = "https://oauth.vk.com/authorize?client_id=7740530&display=page&redirect_uri=https://oauth.vk.com/blank.html&scope=0&response_type=token&v=5.126"
-	access_token = "60d15f8cc6e03bbab63792a02aadd02c773d522a69dd96ced79df1f59a51ed1219415e0590658995833be"
-	community_token = "6277a1fc69d5f089f9bf7f4ec8a32d60d1eb6fe9c8cb24acec29810af8f12a3e3af39ad9aa3bf8c57042e"
+	access_token = "INSERT TOKEN HERE"
+	community_token = "INSERT TOKEN HERE"
 
 	# Load post comments and filer participants which post "+"
 	# Return participants vk link and first and last name
